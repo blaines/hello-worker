@@ -1,0 +1,16 @@
+{
+  "name": "hello-worker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "hello-worker.js",
+  "scripts": {
+    "start": "node hello-worker.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.4.4",
+    "bluebird": "^3.4.1"
+  },
+  "devDependencies": {}
+}
